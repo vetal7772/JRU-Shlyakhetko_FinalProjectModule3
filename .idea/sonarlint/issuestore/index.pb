@@ -16,3 +16,7 @@ S
 Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2\c\2cabb939da04d3de3a200bf2b575690e1a16316d
 w
 G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
+n
+>src/main/java/ua/javarush/exception/InvalidParamException.java,1\9\19b0975642ce319cb824f951438b6fc28c8c574f
+n
+>src/main/java/ua/javarush/exception/UserNotFoundException.java,c\5\c5f8d0e19007de746ecec1acd057d56809b8a725
