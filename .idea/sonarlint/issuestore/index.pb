@@ -20,3 +20,5 @@ n
 >src/main/java/ua/javarush/exception/InvalidParamException.java,1\9\19b0975642ce319cb824f951438b6fc28c8c574f
 n
 >src/main/java/ua/javarush/exception/UserNotFoundException.java,c\5\c5f8d0e19007de746ecec1acd057d56809b8a725
+r
+Bsrc/test/java/ua/javarush/exception/InvalidParamExceptionTest.java,c\c\cc001edb7888248b3774aaa5de7d3a2493f22641
