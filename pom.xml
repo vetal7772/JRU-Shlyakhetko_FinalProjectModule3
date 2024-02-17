@@ -19,18 +19,6 @@
 
     <repositories>
 
-        <repository>
-            <id>public-javarush-repo</id>
-            <name>Public JavaRush Repository</name>
-            <url>http://maven.javarush.com</url>
-        </repository>
-
-        <repository>
-            <id>private-javarush-repo</id>
-            <name>Private JavaRush Repository</name>
-            <url>http://maven2.javarush.com</url>
-        </repository>
-
     </repositories>
 
     <dependencies>
